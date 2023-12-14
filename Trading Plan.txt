@@ -1,0 +1,14 @@
+# TIME FRAMES
+  -H4 for the determination of bias and analysis of major structure
+  -M15 for internal structure analysis and marking of entry zones
+  -M1 for confirmations and entries
+
+# RISK MANAGEMENT
+  -maximum of 3 positions per day
+  -trading should end for a day after the occurence of 2 consecutive losses
+  -RRR should not exceed 1:4 (except there a sure zone of liquidity that price will run to)
+
+# PAIRS TO FOCUS ON
+  -EURUSD
+  -GBPUSD
+  -EURCAD
